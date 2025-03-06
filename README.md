@@ -11,9 +11,7 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [Usage](#usage)
-  - [Examples](#examples)
-- [Folder Structure](#folder-structure)
+- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,7 +36,7 @@ When writing robust C# applications, checking input parameters is a common task.
 - **GuardAgainstNullsAndWhitespaces**: Throws if an object is `null` or if a string is `null`, empty, or consists of only whitespace.
 - **Guard.Against**: An alternative way of invoking guard methods.
 
-## Example
+## Examples
 
 Below are some typical examples of how you might use the guard methods:
 
