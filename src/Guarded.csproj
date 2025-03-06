@@ -9,14 +9,14 @@
     <Version>1.0.0</Version>
     <Company>rjoseph</Company>
     <Authors>rjoseph</Authors>
-    <Description>A library to gaurd against certain things in your code such as null, whitespaces and defaults</Description>
+    <Description>A library to guard against certain things in your code such as null, whitespaces and defaults</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/rodnyjoseph200/Guarded</RepositoryUrl>
     <PackageTags>rjoseph;guarded;guard;checks;check;null;nullorwhitespace;default</PackageTags>
-    <PackageReleaseNotes>A library to gaurd against certain things in your code such as null, whitespaces and defaults</PackageReleaseNotes>
+    <PackageReleaseNotes>A library to guard against certain things in your code such as null, whitespaces and defaults</PackageReleaseNotes>
     <RepositoryType>git</RepositoryType>
     <RepositoryBranch>main</RepositoryBranch>
-    <PackageTags>rjoseph;gaurded;gaurd;checks;check;null;nullorwhitespace;default</PackageTags>
+    <PackageTags>rjoseph;guarded;guard;checks;check;null;nullorwhitespace;default</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>1.0.0</Version>
   </PropertyGroup>
